@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm a Spite Driven Developer. Nice to meet you 🐿️
 
 <!--
 **zerojuan/zerojuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
